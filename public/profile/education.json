@@ -1,19 +1,19 @@
 {
-    "education":[
-        {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
-        },
-        {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
-        }
-    ]
+  "education": [
+    {
+      "title": "2022 - 2026",
+      "cardTitle": "B.Tech, Computer Science Engineering",
+      "cardSubtitle": "Uttaranchal Institute of Technology, Dehradun"
+    },
+    {
+      "title": "2021",
+      "cardTitle": "Intermediate (12th)",
+      "cardSubtitle": "Gyan bharti residential complex, GAYA"
+    },
+    {
+      "title": "2019",
+      "cardTitle": "Matriculation (10th)",
+      "cardSubtitle": "DAV BSEB, Patna"
+    }
+  ]
 }

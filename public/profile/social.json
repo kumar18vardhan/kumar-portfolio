@@ -1,20 +1,16 @@
 {
-    "social": [
-        {
-            "network" : "linkedin",
-            "href": "https://linkedin.com/"
-        },
-        {
-            "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
-        },
-        {
-            "network" : "leetcode",
-            "href": "https://leetcode.com/"
-        },
-        {
-            "network" : "email",
-            "href": "mailto:test@test.com"
-        }
-    ]
+  "social": [
+    {
+      "network": "linkedin",
+      "href": "https://linkedin.com/"
+    },
+    {
+      "network": "github",
+      "href": "https://github.com/kumar18vardhan"
+    },
+    {
+      "network": "email",
+      "href": "mailto:kumar18vardhan@gmail.com"
+    }
+  ]
 }
